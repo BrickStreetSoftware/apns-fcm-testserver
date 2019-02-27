@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = 'brickst.robocust.vc.VC'
+mainClassName = 'net.brickst.apnssim.ApnsSimServer'
 
 repositories {
     mavenCentral()
